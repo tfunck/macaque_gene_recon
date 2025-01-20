@@ -1,0 +1,2 @@
+sub,hemisphere,struct_ref_vol,gm_surf,wm_surf
+f001,L,data/mebrains/MEBRAINS_segmentation_NEW_gm_left.nii.gz,data/yerkes19/lh.MEBRAINS_0.5mm_0.0.surf.gii,data/yerkes19/lh.MEBRAINS_0.5mm_1.0.surf.gii
